@@ -1,0 +1,16 @@
+# local notes and drafts, not part of the published repo
+NOTES.md
+LORA_PROXY.md
+BUCKET_LATENCY_EXPERIMENT.md
+BUCKET_LATENCY_RESULTS.md
+blog.md
+blog_rewrite.md
+hf-mount-repro/
+
+# run outputs
+logs/
+report/
+*.db
+__pycache__/
+.venv/
+.pytest_cache/
